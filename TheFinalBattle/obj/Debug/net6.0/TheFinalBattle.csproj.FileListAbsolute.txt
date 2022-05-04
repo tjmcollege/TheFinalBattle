@@ -1,0 +1,15 @@
+/home/trevor/Documents/Programming/CPG/TheFinalBattle/obj/Debug/net6.0/TheFinalBattle.csproj.AssemblyReference.cache
+/home/trevor/Documents/Programming/CPG/TheFinalBattle/obj/Debug/net6.0/TheFinalBattle.GeneratedMSBuildEditorConfig.editorconfig
+/home/trevor/Documents/Programming/CPG/TheFinalBattle/obj/Debug/net6.0/TheFinalBattle.AssemblyInfoInputs.cache
+/home/trevor/Documents/Programming/CPG/TheFinalBattle/obj/Debug/net6.0/TheFinalBattle.AssemblyInfo.cs
+/home/trevor/Documents/Programming/CPG/TheFinalBattle/obj/Debug/net6.0/TheFinalBattle.csproj.CoreCompileInputs.cache
+/home/trevor/Documents/Programming/CPG/TheFinalBattle/bin/Debug/net6.0/TheFinalBattle
+/home/trevor/Documents/Programming/CPG/TheFinalBattle/bin/Debug/net6.0/TheFinalBattle.deps.json
+/home/trevor/Documents/Programming/CPG/TheFinalBattle/bin/Debug/net6.0/TheFinalBattle.runtimeconfig.json
+/home/trevor/Documents/Programming/CPG/TheFinalBattle/bin/Debug/net6.0/TheFinalBattle.dll
+/home/trevor/Documents/Programming/CPG/TheFinalBattle/bin/Debug/net6.0/TheFinalBattle.pdb
+/home/trevor/Documents/Programming/CPG/TheFinalBattle/obj/Debug/net6.0/TheFinalBattle.dll
+/home/trevor/Documents/Programming/CPG/TheFinalBattle/obj/Debug/net6.0/refint/TheFinalBattle.dll
+/home/trevor/Documents/Programming/CPG/TheFinalBattle/obj/Debug/net6.0/TheFinalBattle.pdb
+/home/trevor/Documents/Programming/CPG/TheFinalBattle/obj/Debug/net6.0/TheFinalBattle.genruntimeconfig.cache
+/home/trevor/Documents/Programming/CPG/TheFinalBattle/obj/Debug/net6.0/ref/TheFinalBattle.dll
